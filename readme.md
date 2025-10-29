@@ -69,6 +69,6 @@ const char* plugin_init(int queue_size) {
 Then add it to the plugin list in build.sh and rebuild.
 
 Notes:
-Developed for Operating Systems course at Reichman University. The assignment required implementing all synchronization primitives from scratch.
+Developed for Operating Systems course at university. The assignment required implementing all synchronization primitives from scratch.
 
 Tested on Ubuntu 24.04 with GCC 13.
